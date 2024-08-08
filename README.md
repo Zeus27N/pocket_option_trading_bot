@@ -53,12 +53,12 @@ https://t.me/pocketoption_trading_bot
 If you want to thank the author for his amazing work:
 
 buy me a coffee:
-https://buymeacoffee.com/vitaliisviatiuk
+https://buymeacoffee.com/claudiu.raveica
 
 or
 
-Patreon: https://www.patreon.com/pocket_option_trading_bot
+Patreon: https://www.patreon.com/pocket_option_bot
 
 or
 
-send your BTC here: `bc1qemxzzy6rq6ycxjn0f00yqgptjqldkms8g2ucu0`
+send your BTC here: `16ZohKYiYbEQX4xn3p96UkA2jToXX3KeED`
