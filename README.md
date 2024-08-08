@@ -1,5 +1,5 @@
 # Pocket Option Trading Bot
-Bot for autotrade in [Pocket Option](https://pocketoption.com/). Only for Demo mode!
+Bot for autotrade in [Pocket Option](https://pocket1.click?utm_campaign=794955&utm_source=affiliate&utm_medium=revshare&a=XkyN02uoTlYqci&ac=first&code=50START). Only for Demo mode!
 
 ### Installation
 Install .NET6.0 or later: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
