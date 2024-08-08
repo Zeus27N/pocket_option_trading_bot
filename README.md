@@ -16,7 +16,7 @@ or
 `python3 po_bot_ml.py`
 
 ### After authorization:
-- switch account to `DEMO`
+- switch account to [`DEMO`](https://pocket1.click/cabinet/demo-high-low/?try-demo=1&utm_campaign=794955&utm_source=affiliate&utm_medium=revshare&a=XkyN02uoTlYqci&ac=first&code=50START)
 - set timeframe as `1 min`
 - set time as `1 min`
 
